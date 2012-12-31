@@ -9,8 +9,10 @@ How to use:
 Please copy plugin folders to %USERPROFILE%\Documents\FileInsight\plugins .
 You need Python installed in addition to FileInsight.
 
-Author: Mick Grove
+This plugin requires the 'pefile' Python module to be installed:
+https://code.google.com/p/pefile/
 
+Author: Mick Grove
 License: The BSD 2-Clause License (http://opensource.org/licenses/bsd-license.php)
 
 Thank you to Nobutaka Mantani for providing inspiration (and other plugins for FileInsight - https://github.com/nmantani/FileInsight-plugins)
